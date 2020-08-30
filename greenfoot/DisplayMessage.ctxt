@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DisplayMessage
+comment0.text=\n\ Write\ a\ description\ of\ class\ DisplayMessage\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=text\ background
+comment1.target=DisplayMessage(java.lang.String,\ greenfoot.Color)
+comment2.params=text\ background
+comment2.target=void\ setText(java.lang.String,\ greenfoot.Color)
+comment3.params=text\ background
+comment3.target=void\ updateImage(java.lang.String,\ greenfoot.Color)
+numComments=4
